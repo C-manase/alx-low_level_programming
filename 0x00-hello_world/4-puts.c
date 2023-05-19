@@ -2,11 +2,14 @@
 
 /*
  * main - entry point of the program
- * puts function - prints a desired message
  *
+ * Description: puts function - prints a desired message
+ *
+ *  Return: always 0 (success)
  */
 
-int main(void) {
+int main(void)
+{
 	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
