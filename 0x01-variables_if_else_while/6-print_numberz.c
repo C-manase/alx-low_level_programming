@@ -10,9 +10,10 @@
 int main(void)
 {
 	int n;
-	n = 18;
-	
-	while (n < 20)
+
+	n = 48;
+
+	while (n < 58)
 	{
 		putchar(n);
 		n++;
