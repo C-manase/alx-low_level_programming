@@ -3,7 +3,7 @@
 /**
  * main - prints the name of the program
  * @argc: number of arguments
- * @arv: array of arguments
+ * @argv: array of arguments
  *
  * Return: 0 (success)
  */
