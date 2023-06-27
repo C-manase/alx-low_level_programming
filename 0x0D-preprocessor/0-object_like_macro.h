@@ -1,2 +1,7 @@
+#ifndef OBJECT_LIKE_MACRO_H
+#define OBJECT_LIKE_MACRO_H
+
 #define MACSIZE 1024
 #define SIZE MACSIZE
+
+#endif
