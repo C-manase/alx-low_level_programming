@@ -1,0 +1,2 @@
+#define MACSIZE 1024
+#define SIZE MACSIZE
