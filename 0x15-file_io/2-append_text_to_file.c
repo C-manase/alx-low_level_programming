@@ -7,9 +7,9 @@
  *
  *Return: 1 (success)and -1 (failure)
  *If filename is NULL return -1
- *If text_content is NULL, adds nothing to the file. 
+ *If text_content is NULL, adds nothing to the file.
  *return 1 if file exists and -1 if file does not exist
- or if you have no required permissions to write the file
+ *or if you have no required permissions to write the file
  */
 
 int append_text_to_file(const char *filename, char *text_content)
